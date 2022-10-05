@@ -13,8 +13,8 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/HwModsWa857'
-global.ig = 'https://www.instagram.com/hikal_857/?hl=id'
+global.youtube'
+global.ig = 
 global.mygc = 'wa.me/6285714170944'
 global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
 global.linkgrupss = "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K"
@@ -27,8 +27,8 @@ global.botname = 'HW MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di ha
 global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281214281312']
-global.premium = ['6281214281312']
+global.owner = ['6285810064025']
+global.premium = ['6285810064025']
 global.packname = 'HW MODS WA'
 global.ownerr = ['HW MODS WA']
 global.author = 'HW MODS WA'
